@@ -5,7 +5,7 @@ print("Hello Everyone!")
 name = input("Enter your name:")
 
 if name == "Kieran":
-    print("Welcome back")
+    print("Welcome back.")
 else:
     print("Hello", name)
 
